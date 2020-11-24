@@ -1,6 +1,10 @@
 {
   "name": "test1",
   "techLeaders": [
+    {
+      "githubName": "Mini256",
+      "email": "minianter@foxmail.com"
+    }
   ],
   "coLeaders": [
     {
