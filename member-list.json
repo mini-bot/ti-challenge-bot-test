@@ -1,0 +1,30 @@
+{
+  "name": "test1",
+  "techLeaders": [
+  ],
+  "coLeaders": [
+    {
+      "githubName": "Rustin-Liu1",
+      "email": "test1@gmail.com"
+    },
+    {
+      "githubName": "Rustin-Liu2",
+      "email": "test@gmail.com"
+    }
+  ],
+  "committers": [
+    {
+      "githubName": "Rustin-Liu3"
+    }
+  ],
+  "reviewers": [
+  ],
+  "activeContributors": [
+    {
+      "githubName": "Rustin-Liu4"
+    },
+    {
+      "githubName": "Rustin-Liu5"
+    }
+  ]
+}
